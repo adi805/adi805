@@ -4,7 +4,12 @@
 
 </div>
 
-AI Agent Engineer. I build autonomous coding agents and the production systems around them: agent orchestration, web tools, and estate management software.
+## About
+
+- 🔭 Building autonomous coding agents and the production systems around them: agent orchestration, web tools, and estate management software.
+- 💼 AI Agent Engineer. I run OpenCrabs-based agents daily on my own VPS fleet (Docker/Podman, Caddy).
+- 🤖 LLM stack: Alibaba Cloud Model Studio (Qwen) plus self-hosted tooling.
+- 💬 Ask me about AI agents, VPS ops, and web scraping.
 
 ## Tech Stack
 
@@ -14,18 +19,15 @@ AI Agent Engineer. I build autonomous coding agents and the production systems a
 ![OpenCrabs](https://img.shields.io/badge/OpenCrabs-Agent_Orchestration-2a5298)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=f74c00)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?logo=linux&logoColor=black)
+![Linux VPS](https://img.shields.io/badge/Linux_VPS-FCC624?logo=linux&logoColor=black)
 
 </div>
 
@@ -54,7 +56,7 @@ Contributor via forks:
 
 </div>
 
-## Alibaba Cloud
+## AI Stack
 
 I run my LLM workloads on Alibaba Cloud Model Studio (Qwen models).
 
@@ -64,14 +66,14 @@ I run my LLM workloads on Alibaba Cloud Model Studio (Qwen models).
 
 <div align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-@syafriadit1-26A5E4?logo=telegram&logoColor=white)](https://t.me/syafriadit1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-adi805.github.io-2a5298?logo=github)](https://adi805.github.io)
 [![Web Tools](https://img.shields.io/badge/Web_Tools-toolkuy.com-FF6A00)](https://toolkuy.com)
-[![Email](https://img.shields.io/badge/Contact-GitHub_DM-181717?logo=github)](https://github.com/adi805)
 
 </div>
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer)](https://github.com/adi805)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer)](https://adi805.github.io)
 
 </div>
