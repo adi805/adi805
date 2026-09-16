@@ -66,7 +66,6 @@ I run my LLM workloads on Alibaba Cloud Model Studio (Qwen models).
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@syafriadit1-26A5E4?logo=telegram&logoColor=white)](https://t.me/syafriadit1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-adi805.github.io-2a5298?logo=github)](https://adi805.github.io)
 [![Web Tools](https://img.shields.io/badge/Web_Tools-toolkuy.com-FF6A00)](https://toolkuy.com)
 
