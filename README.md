@@ -1,29 +1,31 @@
 # Hi, I'm Adi Syafriadi
 
-[![MiniMax Token Plan](assets/minimax-banner.png)](https://platform.minimax.io/subscribe/token-plan?code=1DFnA0fl4f&source=link)
+AI Agent Engineer. I build autonomous coding agents and the production systems around them: agent orchestration, web tools, and estate management software.
 
-## About Me
+## What I Build
 
-AI Agent Engineer focused on building autonomous coding agents with **[pi.dev](https://pi.dev)** and **MiniMax M2.7**.
+- **[opencrabs](https://github.com/adi805/opencrabs)**: All-in-one AI agent living in your terminal. Autonomous, self-healing, connects to your favorite channels.
+- **[socialcrabs](https://github.com/adi805/socialcrabs)**: Human-like social media automation (Instagram, X, LinkedIn) built for OpenCrabs, on Playwright.
+- **[GeoLibre](https://github.com/adi805/GeoLibre)**: Lightweight, cloud-native GIS platform. Runs in the browser, desktop, mobile, and Jupyter.
+- **[toolkuy.com](https://toolkuy.com)**: Web tools & utilities in production.
 
-### What I Build
+## Tech Stack
 
-- **[pi-minimax-pack](https://github.com/adi805/pi-minimax-pack)** — Global engineering contract + skills for pi.dev with auto-grind verification
-- **[hermes-agent-minimax](https://github.com/adi805/hermes-agent-minimax)** — Multi-channel AI agent gateway (Webhook + Telegram)
-- **[SoftwareSawit](https://github.com/adi805/SoftwareSawit)** — Palm oil plantation management system
+- **AI/LLM**: Alibaba Cloud Model Studio (Qwen), GLM, agent orchestration, prompt engineering
+- **Backend**: Rust, Python, Node.js, FastAPI
+- **Frontend**: React, Next.js, Tailwind CSS, Flutter
+- **DevOps**: Docker/Podman, CI/CD, Linux VPS
 
-### Tech Stack
+## Alibaba Cloud
 
-- **AI/LLM**: MiniMax M2.7, pi.dev, prompt engineering, agent orchestration
-- **Backend**: Python, Node.js, FastAPI, Express
-- **Frontend**: React, Next.js, Tailwind CSS
-- **DevOps**: Docker, CI/CD, Linux VPS
+I run my LLM workloads on Alibaba Cloud Model Studio (Qwen models).
 
-### MiniMax API
+**New to Qwen?** Get started with token benefits: [Alibaba Cloud Qwen Landing](https://www.alibabacloud.com/campaign/qwen-ai-landing-page?referral_code=A924ZV)
 
-I use MiniMax's AI models for multimodal generation (image, video, audio, TTS) in my AI agent workflows.
+## Find Me
 
-**Get started with MiniMax:** [View Token Plans](https://platform.minimax.io/subscribe/token-plan?code=1DFnA0fl4f&source=link)
+- Portfolio: [adi805.github.io](https://adi805.github.io)
+- Web tools: [toolkuy.com](https://toolkuy.com)
 
 ---
 
