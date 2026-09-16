@@ -2,12 +2,20 @@
 
 AI Agent Engineer. I build autonomous coding agents and the production systems around them: agent orchestration, web tools, and estate management software.
 
-## What I Build
+## Projects
 
-- **[opencrabs](https://github.com/adi805/opencrabs)**: All-in-one AI agent living in your terminal. Autonomous, self-healing, connects to your favorite channels.
-- **[socialcrabs](https://github.com/adi805/socialcrabs)**: Human-like social media automation (Instagram, X, LinkedIn) built for OpenCrabs, on Playwright.
-- **[GeoLibre](https://github.com/adi805/GeoLibre)**: Lightweight, cloud-native GIS platform. Runs in the browser, desktop, mobile, and Jupyter.
 - **[toolkuy.com](https://toolkuy.com)**: Web tools & utilities in production.
+- **[Grainlify Stellar Contracts](https://github.com/adi805/Grainlify-Stellar-Contracts)**: Escrow smart contracts for agricultural commodity deals on Stellar Soroban (Rust).
+- **[red-flag-checker](https://github.com/adi805/red-flag-checker)**: Bilingual relationship red-flag quiz, live at [red-flag-checker.vercel.app](https://red-flag-checker.vercel.app).
+- **[pi-zed-follow](https://github.com/adi805/pi-zed-follow)**: Pi extension that auto-opens files in the Zed editor when the agent edits them.
+
+## Open Source
+
+Contributor via forks:
+
+- **[opencrabs](https://github.com/adi805/opencrabs)** (upstream: [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs)): The all-in-one autonomous AI agent living in your terminal. I run it daily in production and maintain a hotfix branch on my fork.
+- **[socialcrabs](https://github.com/adi805/socialcrabs)** (upstream: [adolfousier/socialcrabs](https://github.com/adolfousier/socialcrabs)): Human-like social media automation (Instagram, X, LinkedIn) built for OpenCrabs, on Playwright.
+- **[GeoLibre](https://github.com/adi805/GeoLibre)** (upstream: [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)): Lightweight, cloud-native GIS platform. Runs in the browser, desktop, mobile, and Jupyter.
 
 ## Tech Stack
 
@@ -20,7 +28,7 @@ AI Agent Engineer. I build autonomous coding agents and the production systems a
 
 I run my LLM workloads on Alibaba Cloud Model Studio (Qwen models).
 
-**New to Qwen?** Get started with token benefits: [Alibaba Cloud Qwen Landing](https://www.alibabacloud.com/campaign/qwen-ai-landing-page?referral_code=A924ZV)
+**New to Qwen?** Get started with token benefits: [Alibaba Cloud Qwen Landing](https://toolkuy.com/go/qwen) *(referral)*
 
 ## Find Me
 
