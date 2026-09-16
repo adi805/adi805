@@ -50,9 +50,9 @@ Contributor via forks:
 
 <div align="center">
 
-[![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi805&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/adi805)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adi805&layout=compact&hide_border=true&langs_count=8)](https://github.com/adi805)
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi805&theme=github_dark" alt="Profile details"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adi805&theme=github_dark" alt="Repos per language"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi805&theme=github_dark" alt="GitHub stats"/>
 
 </div>
 
