@@ -1,75 +1,72 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=160&section=header&text=Adi%20Syafriadi&fontSize=38&fontColor=ffffff&desc=AI%20Agent%20Engineer&descSize=17&descAlignY=66)](https://adi805.github.io)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=170&section=header&text=Adi%20Syafriadi&fontSize=40&fontColor=ffffff&desc=AI%20Agent%20Engineer%20%C2%B7%20Autonomous%20Systems&descSize=16&descAlignY=68)](https://adi805.github.io)
+
+**I build autonomous coding agents, and the gates that keep them honest.**
+
+[Portfolio](https://adi805.github.io) · [X](https://x.com/syafriadit1) · [Web tools](https://toolkuy.com)
 
 </div>
 
-## About
+## What I do
 
-- 🔭 Building autonomous coding agents and the production systems around them: agent orchestration, web tools, and estate management software.
-- 💼 AI Agent Engineer. I run OpenCrabs-based agents daily on my own VPS fleet (Docker/Podman, Caddy).
-- 🤖 LLM stack: Alibaba Cloud Model Studio (Qwen) plus self-hosted tooling.
-- 💬 Ask me about AI agents, VPS ops, and web scraping.
+I design and operate AI agents that ship real software, not demos. Three things define the work:
 
-## Tech Stack
+- **Agent orchestration** — multi-agent pipelines behind deterministic gates, so a model's claim that it finished is verified against the repository instead of taken on faith.
+- **Production infrastructure** — VPS fleets, containers, reverse proxies, CI. An agent that cannot deploy is a toy.
+- **Systems that outlive the demo** — offline-first field apps, desktop software, web tools in production.
+
+I run OpenCrabs-based agents daily on my own VPS fleet (Docker/Podman, Caddy), with LLM workloads on Alibaba Cloud Model Studio (Qwen).
+
+## Selected work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Compositor for Windows](https://github.com/adi805/Compositor-Windows)** | A Photoshop alternative for Windows, built from scratch and ported from the macOS original (MIT) | C# |
+| **[GeoApps](https://github.com/adi805/GeoApps)** | Field mapping for Android: offline maps, GeoPDF/GeoTIFF import, geofence alerts | TypeScript · Tauri |
+| **[opencrabs-browser](https://github.com/adi805/opencrabs-browser)** | CDP browser daemon for agents: one protocol endpoint, a swappable engine behind it, enforced memory budget | Rust |
+| **[toolkuy.com](https://toolkuy.com)** | Web tools and utilities in production: Astro SSR behind Caddy on a self-managed VPS | Astro · TypeScript |
+
+## Tech stack
 
 <div align="center">
 
-![Alibaba Cloud Qwen](https://img.shields.io/badge/Alibaba_Cloud_Qwen-FF6A00?logo=alibabacloud&logoColor=white)
-![OpenCrabs](https://img.shields.io/badge/OpenCrabs-Agent_Orchestration-2a5298)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=f74c00)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux VPS](https://img.shields.io/badge/Linux_VPS-FCC624?logo=linux&logoColor=black)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 </div>
 
-## Projects
+## Open source
 
-- **[toolkuy.com](https://toolkuy.com)**: Web tools & utilities in production.
-- **[Grainlify Stellar Contracts](https://github.com/adi805/Grainlify-Stellar-Contracts)**: Escrow smart contracts for agricultural commodity deals on Stellar Soroban (Rust).
-- **[red-flag-checker](https://github.com/adi805/red-flag-checker)**: Bilingual relationship red-flag quiz, live at [red-flag-checker.vercel.app](https://red-flag-checker.vercel.app).
-- **[pi-zed-follow](https://github.com/adi805/pi-zed-follow)**: Pi extension that auto-opens files in the Zed editor when the agent edits them.
+I run these in production and contribute back upstream:
 
-## Open Source
+- **[opencrabs](https://github.com/opencrabs/opencrabs)** — the all-in-one autonomous AI agent for the terminal (TUI, CLI, daemon). I run it daily and ship Linux/X11 GUI builds in [opencrabs-gui-x11](https://github.com/adi805/opencrabs-gui-x11).
+- **[socialcrabs](https://github.com/adolfousier/socialcrabs)** — human-like social automation built on Playwright.
+- **[GeoLibre](https://github.com/opengeos/GeoLibre)** — cloud-native GIS platform, the base for my Android field-mapping work.
 
-Contributor via forks:
-
-- **[opencrabs](https://github.com/adi805/opencrabs)** (upstream: [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs)): The all-in-one autonomous AI agent living in your terminal. I run it daily in production and maintain a hotfix branch on my fork.
-- **[socialcrabs](https://github.com/adi805/socialcrabs)** (upstream: [adolfousier/socialcrabs](https://github.com/adolfousier/socialcrabs)): Human-like social media automation (Instagram, X, LinkedIn) built for OpenCrabs, on Playwright.
-- **[GeoLibre](https://github.com/adi805/GeoLibre)** (upstream: [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)): Lightweight, cloud-native GIS platform. Runs in the browser, desktop, mobile, and Jupyter.
-
-## GitHub Stats
+## GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi805&theme=github_dark" alt="Profile details"/>
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adi805&theme=github_dark" alt="Repos per language"/>
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi805&theme=github_dark" alt="GitHub stats"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi805&theme=github_dark" alt="Profile details"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi805&theme=github_dark" alt="GitHub stats"/>
 
 </div>
 
-## AI Stack
+## Contact
 
-I run my LLM workloads on Alibaba Cloud Model Studio (Qwen models).
-
-**New to Qwen?** Get started with token benefits: [Alibaba Cloud Qwen Landing](https://toolkuy.com/go/qwen) *(referral)*
-
-## Find Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-adi805.github.io-2a5298?logo=github)](https://adi805.github.io)
-[![Web Tools](https://img.shields.io/badge/Web_Tools-toolkuy.com-FF6A00)](https://toolkuy.com)
-
-</div>
+- Portfolio: [adi805.github.io](https://adi805.github.io)
+- X: [@syafriadit1](https://x.com/syafriadit1)
+- Open to collaboration on agent infrastructure and tooling.
 
 <div align="center">
 
